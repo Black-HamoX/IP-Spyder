@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environment
+venv/
+ENV/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Reports
+ip_report_*.txt
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Misc
+*.out
+*.dat
