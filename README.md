@@ -10,6 +10,14 @@ IP Spyder is a powerful OSINT (Open Source Intelligence) tool designed to gather
 
 ---
 
+## 📸 Screenshot
+
+![IP Spyder Tool](https://raw.githubusercontent.com/Black-HamoX/IP-Spyder/main/screenshot.png)
+
+> *Example output showing IP information with beautiful colored interface*
+
+---
+
 ## ✨ Features
 
 - 🎯 **Accurate Information**: Fetches data from multiple reliable sources
