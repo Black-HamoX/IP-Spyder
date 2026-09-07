@@ -25,7 +25,6 @@ IP Spyder is a powerful OSINT (Open Source Intelligence) tool designed to gather
 - 📱 **Termux Compatible**: Works perfectly on Android via Termux
 - 💾 **Save Results**: Export reports to text files
 - 🔄 **Multiple Sources**: Cross-verifies data from different APIs
-- 🖥️ **Cross-Platform**: Works on Linux, Windows, macOS, and Android
 
 ---
 
