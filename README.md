@@ -42,15 +42,21 @@ cd IP-Spyder
 pip install -r requirements.txt 
 python main.py
 ```
-⚠️ Copyright Notice
-© 2026 Black-HamoX - All Rights Reserved
+## ⚠️ Copyright & Credits
 
-This tool is created by Black-HamoX
+**© 2026 Black-HamoX — All Rights Reserved**
 
-You must mention Black-HamoX when sharing or publishing this tool
+This tool was created and developed by **Black-HamoX**.
 
-Do not claim this tool as your own
+### 📌 Usage & Credits
 
-Do not remove credits
+* You **must mention `Black-HamoX`** when sharing or publishing this tool.
+* ❌ Do **not** claim this tool as your own.
+* ❌ Do **not** remove or modify the original credits.
+* ✅ You are welcome to use and share the tool while keeping the original attribution intact.
 
-Thank you for using IP Spyder! 🕷️
+---
+
+### 🕷️ Thank You
+
+**Thank you for using IP Spyder!**
