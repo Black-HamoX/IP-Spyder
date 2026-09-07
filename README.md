@@ -39,6 +39,7 @@ pkg install git
 git clone https://github.com/Black-HamoX/IP-Spyder
 ls
 cd IP-Spyder
+chmod +x main.py 
 pip install -r requirements.txt 
 python main.py
 ```
