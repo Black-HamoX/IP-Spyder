@@ -57,7 +57,7 @@ def about():
     
     clear_screen()
     print(Fore.CYAN + "═" * 60)
-    print(Fore.YELLOW + "📌 IP Spyder Tool - Version 2.0.0")
+    print(Fore.YELLOW + "📌 IP Spyder Tool - Version 1.0.0")
     print(Fore.CYAN + "═" * 60)
     print(Fore.GREEN + """
     🔍 What is IP Spyder?
