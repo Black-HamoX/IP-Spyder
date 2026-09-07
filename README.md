@@ -41,3 +41,16 @@ ls
 cd IP-Spyder
 pip install -r requirements.txt 
 python main.py
+```
+⚠️ Copyright Notice
+© 2026 Black-HamoX - All Rights Reserved
+
+This tool is created by Black-HamoX
+
+You must mention Black-HamoX when sharing or publishing this tool
+
+Do not claim this tool as your own
+
+Do not remove credits
+
+Thank you for using IP Spyder! 🕷️
